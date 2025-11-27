@@ -1,5 +1,7 @@
 git init ==> Initialzed git on Project
 git status ==> Watch Status File Tracked
 git add . ==> add Files On git Tracked
+git commit -m "commit message" ==> Add Commit to changes
+git push ==> push changes file
 git config --global user.name ""
 git config --global user.email ""
