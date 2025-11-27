@@ -1,0 +1,3 @@
+git init ==> Initialzed git on Project
+git status ==> Watch Status File Tracked
+git add . ==> add Files On git Tracked
